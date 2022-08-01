@@ -1,0 +1,22 @@
+h1{
+color: #BC8F8F;
+text-align:left;
+}
+body{
+background-color: #FFB6C1;
+text-align:center;
+}
+.mais_sobre_o_jogo{ 
+color:rosybrown;
+font-size:20px;
+}
+a{
+color: #DB7093;
+}
+.links {
+display: inline;
+padding-left: 33px;
+padding-right: 25px;
+font-family: fantasy;
+font-size: 20px
+}
